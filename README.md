@@ -11,7 +11,7 @@ Minor: Data Science, University of Tennessee-Knoxville (Ongoing)
 
 High School: Franklin High School, Franklin, TN (Graduated May 2020)
 
-Academic Projects
+Academic Projects-
 
 I've worked on some cool projects, like:
 
