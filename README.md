@@ -1,16 +1,25 @@
-### Hi there 👋
+### 
+ABOUT ME-
+Hi, I'm Ammar Mustufa, an Information Science student at the University of Tennessee, Knoxville. Here's a snapshot of who I am:
 
-<!--
-**MUSTUAMM000/MUSTUAMM000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Education-
+Undergrad: Information Science, University of Tennessee-Knoxville (Since August 2020)
+Minor: Data Science, University of Tennessee-Knoxville (Ongoing)
+High School: Franklin High School, Franklin, TN (Graduated May 2020)
+Academic Projects
+I've worked on some cool projects, like:
 
-Here are some ideas to get you started:
+STAT 201: Explored stats, probability, and data collection.
+COSC 102: Got into problem-solving and programming with C++.
+INSC 484: Worked on databases, utilizing python and sql.
+DATA 201 & 202: Explored data management, visualization, and ethics.
+DATA 301 & 302: Studied the data life cycle and analytical methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Work Experience-
+Research Assistant
+University of Tennessee - Knoxville, TN (May 2023 to Present)
+I helped a professor with data research using Tableau and stats.
+
+What's Next
+Exciting news! I'm joining the MSBA program at UT Austin in summer 2024. I'm eager to dive into AI and contribute to its development. Ready to relocate anywhere and authorized to work in the US. Let's connect at mustufa.ammar@gmail.com or +1 615 574 2189!
+
