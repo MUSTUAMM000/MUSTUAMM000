@@ -33,7 +33,7 @@ University of Tennessee - Knoxville, TN (May 2023 to Present)
 
 I helped a professor with data research using Tableau and stats.
 
-What's Next
+What's Next:
 
-Exciting news! I'm joining the MSBA program at UT Austin in summer 2024. I'm eager to dive into AI and contribute to its development. Ready to relocate anywhere and authorized to work in the US. Let's connect at mustufa.ammar@gmail.com or +1 615 574 2189!
+Exciting news! I'm joining the MSBA program at UT Austin in summer 2024. I'm eager to dive into AI and contribute to its development. Ready to work in the Nashville Area/remotely and authorized to work in the US. Let's connect at mustufa.ammar@gmail.com or +1 615 574 2189!
 
